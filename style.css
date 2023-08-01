@@ -1,0 +1,58 @@
+span {
+    display: block;
+}
+
+table {
+    margin: 60PX;
+    margin-top: 250px;
+}
+
+th#imam {
+    font-size: 50px;
+    text-align: left;
+    color: #434ffaf7;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+td {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400%;
+}
+
+.nice{
+ border: 1px solid red; background-color: aliceblue; width: 350px;height: 250px; padding: 20px; border-radius: 10px 50px;
+}
+
+button {
+    background-color: #434ffaf7;
+    width: 170PX;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    width: 295PX;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.placeholder {
+    width: 295PX;
+}
+p{
+    
+}
+#account{
+    width: 200px; height: 30px; background-color: rgba(0, 0, 0, 0.629) ;cursor: pointer; font-family: Arial, Helvetica, sans-serif;
+}
+
+
+table{
+     display: inline-block;
+}
+th{
+    height: 35px;
+}
+a{
+    text-decoration: none;   font-family: Arial, Helvetica, sans-serif;color:#434ffaf7  ;
+}
+
